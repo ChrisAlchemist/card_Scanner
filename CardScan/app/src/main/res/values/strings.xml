@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">CardScan</string>
+    <string name="banco_text">Banco</string>
+    <string name="vence_text">Vence</string>
+    <string name="fecha">12/20</string>
+    <string name="numero_cuenta">****    ****    ****    0011</string>
+    <string name="btn_text">Escanear Tarjeta</string>
+    <string name="titular">Nombre del Titular</string>
+
+</resources>
